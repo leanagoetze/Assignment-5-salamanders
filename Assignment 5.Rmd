@@ -5,7 +5,7 @@
 # output: html_document
 ---
 <center>
-## Title
+## Pacific Giant Salamander Weight and Abundance at Mack Creek
 </center>
 #### Leana Goetze
 #### 12/4/2019
